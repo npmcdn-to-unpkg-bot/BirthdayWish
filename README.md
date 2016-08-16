@@ -1,2 +1,2 @@
-# BirthdayMail
-A web app to automatically send birthday wishes.
+# BirthdayWish
+A web app to automatically send birthday wishes to your contacts.
